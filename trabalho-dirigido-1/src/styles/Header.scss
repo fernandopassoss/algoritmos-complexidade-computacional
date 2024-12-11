@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+.header{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+    background-color: #fcb00c;
+    padding: 10px 50px;
+    border-radius: 10px;
+    align-items: center;
+    font-family: "Roboto Mono", monospace;
+
+    .header-titulo{
+        font-weight: 800;
+        font-size: 20px;
+        cursor: pointer;
+    }
+
+    .header-itens{
+
+        cursor: pointer;
+
+        .header-lista{
+            display: flex;
+            gap: 40px;
+            list-style: none;
+            font-weight: 600;
+            letter-spacing:-1px;
+            font-size: 16px;
+            
+        }
+    }
+}
