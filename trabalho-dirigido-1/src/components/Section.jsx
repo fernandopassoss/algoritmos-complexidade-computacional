@@ -1,6 +1,7 @@
 import React from 'react'
 import ForcaBruta from './ForcaBruta'
 import DivisaoConquista from './DivisaoConquista'
+import ProgramacaoDinamica from './ProgramacaoDinamica'
 
 function Section({children}) {
 
@@ -11,6 +12,7 @@ function Section({children}) {
             <>
                 <ForcaBruta/>
                 <DivisaoConquista/>
+                <ProgramacaoDinamica/>
             </>
         )
       }

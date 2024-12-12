@@ -3,7 +3,7 @@ import '../styles/ProgramacaoDinamica.scss'
 
 function ProgramacaoDinamica() {
   return (
-    <div>
+    <div className='programacao-dinamica'>
       programacao dinamica
     </div>
   )
