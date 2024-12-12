@@ -6,7 +6,7 @@ function Header() {
         <div>
             <div className='header'>
                 <div className='header-titulo'>
-                    <p>Algoritmos & Complexidade Computacional</p>
+                    <p>ACC</p>
                 </div>
                 <div className='header-itens'>
                     <ul className='header-lista'>

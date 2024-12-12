@@ -4,7 +4,7 @@ import '../styles/ProgramacaoDinamica.scss'
 function ProgramacaoDinamica() {
   return (
     <div>
-      
+      programacao dinamica
     </div>
   )
 }

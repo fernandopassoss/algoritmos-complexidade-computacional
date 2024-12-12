@@ -1,0 +1,8 @@
+@mixin container(){
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+    background-color: #ffdb8e;  
+    border-radius: 10px;
+    height: 700px;
+}

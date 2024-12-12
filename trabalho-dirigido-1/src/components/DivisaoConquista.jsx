@@ -3,8 +3,8 @@ import '../styles/DivisaoConquista.scss'
 
 function DivisaoConquista() {
   return (
-    <div>
-      
+    <div className='divisao-conquista'>
+      divisao e conquista
     </div>
   )
 }
